@@ -14,7 +14,7 @@ def solve(array):
 			coor[1] -= 1
 			coor[2] += 1
 
-		if step == 'ne':
+		elif step == 'ne':
 			coor[0] += 1
 			coor[2] -= 1
 		elif step == 'sw':
