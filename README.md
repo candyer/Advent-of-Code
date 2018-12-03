@@ -1,2 +1,3 @@
-# Advent-of-Code-2017  
+# Advent-of-Code  
 [AOC 2017](http://adventofcode.com/2017)
+[AOC 2018](http://adventofcode.com/2018)
